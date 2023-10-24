@@ -30,7 +30,6 @@ function Main() {
             }
         })
     },[navigate]);*/
-    console.log("ID ", process.env.REACT_APP_APIKEY);
 
     //add rooms to firebase
     const newRoom = ()=>{
